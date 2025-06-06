@@ -71,22 +71,22 @@
         {
           "category": "NEW",
           "position": 0,
-          "value": 0.3
+          "value": 0.5
         },
         {
           "category": "NEW",
           "position": 1,
-          "value": 0.6
+          "value": 0.2
         },
         {
           "category": "NEW",
           "position": 2,
-          "value": 0.8
+          "value": 0.2
         },
         {
           "category": "NEW",
           "position": 3,
-          "value": 0.5
+          "value": 0.4
         }
       ]
     }

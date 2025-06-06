@@ -105,7 +105,7 @@
           "v": 49
         },
         {
-          "u": "Update",
+          "u": 20,
           "v": 15
         }
       ]
@@ -114,7 +114,7 @@
   "scales": [
     {
       "name": "xscale",
-      "type": "point",
+      "type": "linear",
       "range": "width",
       "zero": false,
       "domain": {
@@ -138,7 +138,8 @@
     {
       "orient": "bottom",
       "scale": "xscale",
-      "tickCount": 20
+      "tickCount": 20,
+      "labelExpr": "datum.value == 19 ? 'Update' : datum.label"
     },
     {
       "orient": "left",

@@ -124,13 +124,14 @@
           },
           "text": {
             "field": "data"
-          },
-          "fontSize": {
-            "value": 14
           }
         }
       }
     }
   ],
-  "config": {}
+  "config": {
+    "text": {
+      "fontSize": 14
+    }
+  }
 }
