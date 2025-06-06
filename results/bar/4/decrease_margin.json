@@ -64,10 +64,5 @@
     "color": {
       "field": "group"
     }
-  },
-  "config": {
-    "bar": {
-      "discreteBandSize": 17.0
-    }
   }
 }
